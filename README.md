@@ -2,7 +2,7 @@
 
 ### Usage
 
-Run RF/runDatasetRF_lbp.m
+Run /RF/runDatasetRF_lbp.m
 
 ### Paper & Citation
 
